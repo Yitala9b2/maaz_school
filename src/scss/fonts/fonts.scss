@@ -19,3 +19,10 @@
 	font-weight: 400;
 	font-style: normal;
 }
+@font-face {
+	font-family: "GrandhiSerif";
+	font-display: swap;
+	src: url("../fonts/GandhiSerif-Bold.woff2") format("woff2"), url("../fonts/GandhiSerif-Bold.woff") format("woff");
+	font-style: normal;
+    font-weight: 100;
+}
