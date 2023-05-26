@@ -3,7 +3,7 @@
 # maaz-shop
 
 
-<p> хостинг:  https://maaz-school.test-handyhost.ru/  </p>
+<p> хостинг:  https://maaz-design.ru/  </p>
 
 <div  id="ladesign_description" align="center" >
   
